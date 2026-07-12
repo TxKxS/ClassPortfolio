@@ -1,0 +1,33 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    color: green;
+}
+
+h3 {
+    color: green;
+}
+
+p {
+    color: green;
+}
+
+ol {
+    color: green;
+}
+
+ul {
+    color: green;
+}
+
+span {
+    color: green;
+}
+
+.navbar {
+    color: green;
+    background-color: black;
+
+}
