@@ -2,27 +2,7 @@ body {
     background-color: black;
 }
 
-h1, h3, ul, ol {
-    color: green;
-}
-
-h3 {
-    color: green;
-}
-
-p {
-    color: green;
-}
-
-ol {
-    color: green;
-}
-
-ul {
-    color: green;
-}
-
-span {
+h1, h3, ul, ol, span {
     color: green;
 }
 
