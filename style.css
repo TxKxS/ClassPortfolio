@@ -1,14 +1,18 @@
 body {
-    background-color: black;
+    background-color: rgb(50, 50, 225);
 }
+ .container {
+    background-color: black;
+ }
 
-h1, h3, ul, ol, span {
+h1, h3, ul, ol, span,p {
     color: green;
 }
 
-.navbar {
-    color: green;
-    background-color: black;
+#navbar {
+    color: gold;
+    background-blend-mode: color;
+    /* opacity: 25%; */
 
 }
 
