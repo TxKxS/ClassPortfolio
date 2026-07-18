@@ -10,12 +10,16 @@ h1, h3, ul, ol, span,p {
 }
 
 #navbar {
-    color: gold;
-    background-blend-mode: color;
-    /* opacity: 25%; */
+    background-color: goldenrod !important;
+    font-weight: bold;
 
 }
 
 .text-center {
     text-align: center;
+}
+
+.Section-Seperator {
+    background-color: goldenrod; 
+    height: 50px;
 }
