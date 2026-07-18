@@ -1,2 +1,0 @@
-# ClassPortfolio
-Portfolio for classwork
