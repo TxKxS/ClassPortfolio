@@ -10,10 +10,25 @@ h1, h3, h6, ul, ol, span,p {
 }
 
 #navbar {
-    background-color: goldenrod !important;
+    background-color: #0a0a0a;
+    border-bottom: 1px solid #00ff88;
     font-weight: bold;
 
 }
+
+
+#navbar .nav-link {
+    color: #00ff88;
+}
+
+#navbar .nav-link:hover {
+    color: #ffffff;
+}
+
+#navbar .nav-link:active {
+    color: #ffffff;
+}
+
 
 .text-center {
     text-align: center;
