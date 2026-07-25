@@ -1,12 +1,12 @@
 body {
-    background-color: rgb(50, 50, 225);
+    background-color: #0a0a0a;
 }
  .container {
-    background-color: black;
+    background-color: #070707;
  }
 
 h1, h3, ul, ol, span,p {
-    color: green;
+    color: #00ff88;
 }
 
 #navbar {
@@ -21,5 +21,14 @@ h1, h3, ul, ol, span,p {
 
 .Section-Seperator {
     background-color: goldenrod; 
-    height: 50px;
+    height: 25px;
 }
+
+.feature-card {
+
+    background: var(--panel);
+    border: 1px solid var(--line);
+    border-radius: 14px;
+    padding: 1.8rem;
+    transition: border-color 0.3s, transform 0.3s;
+};
