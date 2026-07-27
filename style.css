@@ -54,6 +54,8 @@ h1, h3, h5, h6, ul, ol, span,p , .card-title{
     border-radius: 14px;
     padding: 1.8rem;
     transition: border-color .3s, transform .3s;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 .feature-card:hover {
     border-color: var(--green);           
