@@ -1,0 +1,74 @@
+<<<<<<< HEAD
+=======
+:root { --green: #00ff88; --panel: #0a0a0a; --line: #1c1c1c; --gold: #ffd700; --white: #ffffff; }
+
+
+body {
+    background-color: #0a0a0a;
+}
+ .container{
+    background-color: #070707;
+ }
+
+h1, h3, h5, h6, ul, ol, span,p , .card-title, a{
+    color: var(--green);
+}
+
+#navbar {
+    background-color: var(--panel);
+    border-bottom: 1px solid var(--gold);
+    font-weight: bold;
+
+}
+
+#navbar .nav-link {
+    color: var(--green);
+}
+
+#navbar .nav-link:hover .nav-link:active{
+    color: var(--white);
+}
+
+.whoami {
+    margin-top: 15px; 
+    font-size: 0.9rem;
+    letter-spacing: 2px;
+}
+
+
+.text-center {
+    text-align: center;
+}
+
+.Section-Seperator {
+    background-color: goldenrod; 
+    height: 15px;
+}
+
+    
+.feature-card {
+    background: var(--panel);              
+    border: 1px solid var(--line);        
+    border-radius: 14px;
+    padding: 1.8rem;
+    transition: border-color .3s, transform .3s;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.feature-card:hover {
+    border-color: var(--green);           
+    transform: translateY(-4px);   
+}
+.feature-icon {
+    width: 48px; height: 48px; border-radius: 12px;
+    background: var(--panel);   
+    color: var(--green);               
+    display: flex; align-items: center; justify-content: center;
+    font-size: 1.4rem; margin-bottom: 1rem;
+}
+
+.feature-card h5 { font-weight: 600; }
+.feature-card p { color: #888; font-size: .9rem; }
+
+
+>>>>>>> main
