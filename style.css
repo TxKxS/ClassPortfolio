@@ -12,7 +12,11 @@ body {
     background-color: #070707;
 } */
 
+<<<<<<< HEAD
 h1, h3, h5, h6, ul, ol, span,p , .card-title{
+=======
+h1, h3, h5, h6, ul, ol, span,p , .card-title, a{
+>>>>>>> main
     color: var(--green);
 }
 
