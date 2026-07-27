@@ -66,6 +66,15 @@ h1, h3, h5, h6, ul, ol, span,p , .card-title, a{
 }
 
 .feature-card h5 { font-weight: 600; }
-.feature-card p { color: #888; font-size: .9rem; }
+.feature-card p { color: var(--green); font-size: .9rem; }
 
 
+.image{
+    width: 1000px;
+    height: 1250px;
+    object-fit: cover;
+    border: 2px solid var(--green); 
+    border-radius: 12px;
+    display: block;
+    margin: 0 auto 1rem;
+}
