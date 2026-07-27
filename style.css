@@ -8,10 +8,6 @@ body {
     background-color: #070707;
  }
 
-/* .card-body, .card-header{
-    background-color: #070707;
-} */
-
 h1, h3, h5, h6, ul, ol, span,p , .card-title, a{
     color: var(--green);
 }
